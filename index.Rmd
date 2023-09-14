@@ -1,0 +1,86 @@
+---
+title: "Megan Willis"
+image: "meganwillis.JPG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/megan-willis/"
+  - label: GitHub
+    url: "https://github.com/meganEwillis"
+  - label: Email
+    url: "mailto:mewillis18@gmail.com"
+output:
+  postcards::trestles
+---
+## Bio
+
+I graduated from Simmons University with my B.S. in Data Science and Analytics, in May, 2022. I am currently attending Boston University to receive my M.S. in Biostatistics, expected to graduate this December (2023). I have experience using in R and Python for Data Science and Statistical Programming. 
+
+## Education
+
+**Boston University** | Boston, MA
+
+*M.S. in Biostatistics*, Anticipated December 2023
+
+*GPA:* 3.39
+
+**Simmons University** | Boston, MA  
+  
+*B.S. in Data Science & Analytics*, May 2022  
+  
+*Minor:* Mathematics, Biostatistics, Computer Science  
+
+*GPA:* 3.84
+
+## Experience
+
+**Vertex Pharmaceuticals**, Boston MA  
+*Statistical Programming Extern*, 2022-Present  
+
+In my current position as a Statistical Programming Extern, I have worked to create multiple interactive dashboards to better visualize Clinical Trial data. After preparing the complex data to best be used in the dashboards, I use ggplot2 to make the initial plots, RShiny to host the plots as a dashboard, and Plotly to add interactive features to make the plots easily readable.
+
+**Simmons University**, Boston, MA | **Princeton University**, Princeton, NJ  
+*Research Assistant*, 2021-2022  
+
+As an RA, I spent time labeling speech data using linguistics software (Praat), I worked on writing an algorithm that extracted pitch measurements from the labeled data within a given time interval, and used neural networks in R to investigate different speech patterns.
+
+**Simmons University**, Boston MA  
+*Teaching Assistant*, 2020-2021  
+
+During my time as a teaching assistant, I aided professors during class and lab times by helping answer students questions, and by grading assignments. I also occasionally held office hours to meet with students outside of regular course meetings. I worked as a TA across multiple disciplines, including the courses: Database Management Systems, Intro to Computer Science, Probability, Linear Algebra, and Calculus II.
+
+## Resume
+
+To view my Resume, click [here](willis_resume.pdf)
+
+### Coursework (Boston University)
+
+- Intermediate Statistical Programming (in SAS)
+- Epidemiology
+- Probability
+- Mathematical Statistics
+- Linear Models
+- Applied Statistics for Clinical Trials
+- Statistical Methods in Epidemiology
+- Bayesian Models
+
+### Relevant Coursework (Simmons University)
+
+- Data Science
+- Statistical Design & Analysis
+- Intro to Computer Science
+- Regression
+- Advanced Linear Algebra
+- Probability 
+- Statistical Theory
+- Multivariable Calculus
+- Discrete Math
+- Database Management Systems
+- Data Mining
+- Causal Inference
+- Epidemiology
+- Programming Languages
+- Data Interoperability
+- Stochastic Processes
+- Software Engineering
+- Applied Data Science
+
