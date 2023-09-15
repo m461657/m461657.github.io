@@ -13,7 +13,7 @@ output:
 ---
 ## Bio
 
-I graduated from Simmons University with my B.S. in Data Science and Analytics, in May, 2022. I am currently attending Boston University to receive my M.S. in Biostatistics, expected to graduate this December (2023). I have experience using in R and Python for Data Science and Statistical Programming. 
+I graduated from Simmons University with my B.S. in Data Science and Analytics, in May, 2022. I am currently attending Boston University to receive my M.S. in Biostatistics, expected to graduate this December (2023). I have experience using R and Python for Data Science and Statistical Programming. 
 
 ## Education
 
